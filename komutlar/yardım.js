@@ -8,7 +8,7 @@ exports.run = (client, message, args) => {
 const exampleEmbed = new Discord.MessageEmbed()
 	.setColor('#27167A')
     .setTitle("Sitemize gidin!")
-    .setURL("http://netherbot.tk/")
+    .setURL("")
 	.setAuthor('Rapel Studio Sunar')
 	.setDescription('Rapel komutları!')
 	.addFields(
