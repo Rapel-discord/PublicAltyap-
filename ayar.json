@@ -1,5 +1,8 @@
 {
   "prefix": "PREFİX",
-  "sahip": "Bot Yapımcı İD",
-  "token": "BOT TOKEN", 
+  "sahip": "birinci-sahip-id",
+  "sahip2": "ikinci-sahip-id",
+  "token": "BOT TOKEN",
+   "isim":"RAPEL BOT ALTYAPI"
+  
 }
