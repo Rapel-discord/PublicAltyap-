@@ -36,7 +36,7 @@ exports.help = {
 
   name: 'anime',
 
-  description: "PYTHONIC V12",
+  description: "Rapel V.12",
 
   usage: 'anime'
 
