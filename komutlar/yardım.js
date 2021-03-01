@@ -9,8 +9,8 @@ const exampleEmbed = new Discord.MessageEmbed()
 	.setColor('#27167A')
     .setTitle("Sitemize gidin!")
     .setURL("http://netherbot.tk/")
-	.setAuthor('Pythonic', 'https://cdn.discordapp.com/attachments/736209990871941272/755062661334564904/rsz_1lol1.png')
-	.setDescription('Pythonic komutları!')
+	.setAuthor('Rapel Studio Sunar')
+	.setDescription('Rapel komutları!')
 	.addFields(
 		{ name: 'Müzik komutları', value: `${prefix}müzik`, inline: true },
 		{ name: 'Yazı komutları ', value: `${prefix}yazılar`, inline: true },
@@ -20,9 +20,9 @@ const exampleEmbed = new Discord.MessageEmbed()
 
 	)
 	.addField('Gif komutları', `${prefix}gifs`, true)
-	.setImage('https://i.imgur.com/tisiWVo.png')
+	.setImage('https://images-ext-2.discordapp.net/external/oi25x2VNTl7ft5O9gBUnfb9I24OOgyJWIkzPH7iEKao/https/media.discordapp.net/attachments/813821451240079401/814526098175819796/standard_3.gif')
 	.setTimestamp()
-	.setFooter('Pythonic 2020', 'https://cdn.discordapp.com/attachments/736209990871941272/755062661334564904/rsz_1lol1.png');
+	.setFooter('Rapel Studio Sunar');
 
 message.channel.send(exampleEmbed);
 };
